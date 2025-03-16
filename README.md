@@ -1,16 +1,14 @@
-<table>
-  <tr>
-    <td>
-      <h2> Hi there! 👋 I'm Erla </h2>
-      <p>
-        I’m finishing my studies in Business Informatics and working on AI, Machine Learning, Deep Learning, and Data Analysis. I’m passionate about technology, data science, and robotics!
-      </p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>Hi there! 👋 I'm Erla</h2>
+    <p>
+      I’m finishing my studies in Business Informatics and working on AI, Machine Learning, Deep Learning, and Data Analysis.  
+      I’m passionate about technology, data science, and robotics!
+    </p>
+  </div>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+</div>
+
 
 
 ### 🔍 Currently working on:
