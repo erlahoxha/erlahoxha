@@ -6,6 +6,9 @@ I'm a  **Business Informatics** student, soon to graduate, with a strong focus o
 - Robotics projects with **Epoka Robotics Club** 🚀
 - **Data Analysis** and **Predictive Modeling**
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&width=435&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analysis+%7C+SQL+%7C+Python;Web+Development+%7C+PHP+%7C+JavaScript;Robotics+%7C+C%2B%2B+%7C+Java)
+
+
 ## 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
