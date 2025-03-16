@@ -6,7 +6,6 @@ I'm a  **Business Informatics** student, soon to graduate, with a strong focus o
 - Robotics projects with **Epoka Robotics Club** 🚀
 - **Data Analysis** and **Predictive Modeling**
 
-Feel free to check out my repositories below! ⬇️
 ## 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,7 +24,7 @@ Feel free to check out my repositories below! ⬇️
 
 ### 📬 Let's Connect!
 
-Feel free to reach out to me through any of the following channels:
+Feel free to reach out to me through any of the following :
 
 <p align="center">
   <a href="http://linkedin.com/in/erla-hoxha-3a39272b8">
