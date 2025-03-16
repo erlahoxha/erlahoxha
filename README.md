@@ -23,5 +23,9 @@ Feel free to check out my repositories below! ⬇️
 
 ![Erla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
+### 📬 Get in Touch
+
+- [LinkedIn](http://linkedin.com/in/erla-hoxha-3a39272b8)
+- [Email](mailto:erlahoxha04@gmail.com)
 
 
