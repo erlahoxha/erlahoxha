@@ -1,7 +1,7 @@
 ## Hi there, I'm Erla! 👋
 I'm a  **Business Informatics** student, soon to graduate, with a strong focus on **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, and **Data Analysis**. I love working with large datasets and creating models to solve real-world problems.
 
-🔍 Currently working on:
+### 🔍 Currently working on:
 - **AI & ML** research
 - Robotics projects with **Epoka Robotics Club** 🚀
 - **Data Analysis** and **Predictive Modeling**
