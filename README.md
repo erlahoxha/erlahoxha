@@ -24,10 +24,10 @@ Feel free to check out my repositories below! ⬇️
 ![Erla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ### 📬 Let's Connect!
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)] 
-  ([https://www.linkedin.com/in/your-linkedin](http://linkedin.com/in/erla-hoxha-3a39272b8))
-    [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)] 
-    (mailto:erlahoxha04@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/erla-hoxha-3a39272b8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erlahoxha04@gmail.com.com)
 
 > "Strive for progress, not perfection." 💪
 
