@@ -7,7 +7,7 @@ I'm a  **Business Informatics** student, soon to graduate, with a strong focus o
 - **Data Analysis** and **Predictive Modeling**
 
 Feel free to check out my repositories below! ⬇️
-## Badges
+## 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=python&logoColor=white)
@@ -19,5 +19,9 @@ Feel free to check out my repositories below! ⬇️
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-006E67?style=flat-square&logo=mysql&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-008CBA?style=flat-square&logo=robot&logoColor=white)
+### 📊 GitHub Stats
+
+![Erla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
 
 
