@@ -28,9 +28,8 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
 ![Erla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-</p>
+
 ### 📬 Let's Connect!
 
 Feel free to reach out to me through any of the following :
