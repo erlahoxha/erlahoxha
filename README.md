@@ -8,7 +8,7 @@
       </p>
     </td>
     <td>
-      <img src=["https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHE0amFneDI1ZTJjNWM4NHM2enM0cDNyZnplZzA1YTdkYnVndnZtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5yOQJ3X3y0Xyd476S/giphy.gif" width="300"]
+      <img src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300">
     </td>
   </tr>
 </table>
