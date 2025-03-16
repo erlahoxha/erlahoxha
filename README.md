@@ -21,12 +21,6 @@
 ## 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Data+Analysis+%7C+SQL+%7C+Python;Web+Development+%7C+PHP+%7C+JavaScript;Robotics+%7C+R+%7C+Java)
 
-##
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
-</p>
-
-
 ### 📊 GitHub Stats
 
 ![Erla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
