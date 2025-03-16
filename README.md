@@ -1,5 +1,16 @@
-## Hi there, I'm Erla! 👋
-I'm a  **Business Informatics** student, soon to graduate, with a strong focus on **Artificial Intelligence**, **Deep Learning**, **Machine Learning**, and **Data Analysis**. I love working with large datasets and creating models to solve real-world problems.
+<table>
+  <tr>
+    <td>
+      <h2> Hi there! 👋 I'm Erla </h2>
+      <p>
+        I’m finishing my studies in Business Informatics and working on AI, Machine Learning, Deep Learning, and Data Analysis. I’m passionate about technology, data science, and robotics!
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 ### 🔍 Currently working on:
 - **AI & ML** research
