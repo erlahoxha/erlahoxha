@@ -28,4 +28,6 @@ Feel free to check out my repositories below! ⬇️
 - [LinkedIn](http://linkedin.com/in/erla-hoxha-3a39272b8)
 - [Email](mailto:erlahoxha04@gmail.com)
 
+> "Strive for progress, not perfection." 💪
+
 
