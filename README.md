@@ -3,7 +3,7 @@
     <td>
       <h2>Hi there! 👋 I'm Erla Hoxha</h2>
       <p>
-        I’m finishing my studies in Business Informatics and working on AI, Machine Learning, Deep Learning, and Data Analysis.  
+        I’m a Business Informatics graduate and continuously working on AI, Machine Learning, Deep Learning, and Data Analysis.  
         I’m passionate about technology, data science, and robotics!
       </p>
     </td>
